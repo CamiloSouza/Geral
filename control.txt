@@ -1,0 +1,3 @@
+############################GUARDA AS ALTERAÇÕES REALIZADAS###########################33
+
+24/02/2019 - criação da classe Investigation.java. Até então, o método já lê os arquivos de trace linha por linha. A cade leitura, passa pra um vetor de inteiros os valores. Próximo passo é fazer a leitura das variáveis de interesse pra cada par de nós.
